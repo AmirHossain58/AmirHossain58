@@ -1,6 +1,6 @@
+![Web Developer](https://i.ibb.co/vdggQ7q/Brown-Transparent-Minimalist-Personal-Profile-New-Linked-In-Banner-2.png)
 ### Hi there 👋, I'm Amir Hossain
 #### Web Developer
-![Web Developer](https://i.ibb.co/vdggQ7q/Brown-Transparent-Minimalist-Personal-Profile-New-Linked-In-Banner-2.png)
 
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning. I love to solve real-world problems. I am strategic and goal-oriented,  and I always work with an end goal in mind. I enjoy working with include ReactJS, JavaScript.
 
