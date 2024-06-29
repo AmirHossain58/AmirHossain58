@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co/vdggQ7q/Brown-Transparent-Minimalist-Personal-Profile-New-Linked-In-Banner-2.png)
+![Web Developer](<img src="https://i.ibb.co/vdggQ7q/Brown-Transparent-Minimalist-Personal-Profile-New-Linked-In-Banner-2.png" alt="Brown-Transparent-Minimalist-Personal-Profile-New-Linked-In-Banner-2" border="0" />)
 ### Hi there 👋, I'm Amir Hossain
 #### Web Developer
 
