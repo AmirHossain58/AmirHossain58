@@ -36,13 +36,12 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 <p align="center"> <a href="https://github.com/AmirHossain58/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirHossain58&row=1&column=6&theme=onedark" alt="AmirHossain58" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmirHossain58)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHossain58)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirHossain58&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AmirHossain58)    
 
-...
+
 
