@@ -1,4 +1,6 @@
+<div align="center">
 ![Web Developer](https://i.ibb.co/vdggQ7q/Brown-Transparent-Minimalist-Personal-Profile-New-Linked-In-Banner-2.png)
+</div>
 ### Hi there 👋, I'm Amir Hossain
 #### Web Developer
 
@@ -28,7 +30,11 @@ I’m a Front End Web developer passionate about making error-free websites with
 </p>  
 
 <br>
+  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHossain58" alt="AmirHossain58" /></p>
+<br>
 
+<p align="center"> <a href="https://github.com/AmirHossain58/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirHossain58&row=1&column=6&theme=onedark" alt="AmirHossain58" /></a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmirHossain58)](https://github.com/ryo-ma/github-profile-trophy)
 
