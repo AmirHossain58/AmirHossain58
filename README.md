@@ -3,7 +3,6 @@
 </div>
 
 ### Hi there 👋, I'm Amir Hossain
-#### Web Developer
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning. I love to solve real-world problems. I am strategic and goal-oriented,  and I always work with an end goal in mind. I enjoy working with include ReactJS, JavaScript.
@@ -36,8 +35,8 @@ I’m a Front End Web developer passionate about making error-free websites with
   
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <p align="left">  
-<a href="https://twitter.com/mdah.antar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdah.antar" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/mdah.antar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdah.antar" height="30" width="40" /></a>  
+<!-- <a href="https://twitter.com/mdah.antar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdah.antar" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/amir-hossain-antar-766412307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdah.antar" height="30" width="40" /></a>   -->
 <a href="https://fb.com/mdah.antar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a>  
 
 </p>  
