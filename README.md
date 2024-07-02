@@ -17,9 +17,15 @@ I’m a Front End Web developer passionate about making error-free websites with
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
  🔭 I’m currently working on  Hostel Meal Management system 
-- 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Developement 
+ 
+- 🌱 I’m currently learning Next.js
+  
+- 👯 I’m looking to collaborate on github
+  
+- 💬 Ask me about Web Developement
+
+ - 📫 Reach me at **ahantar58@@gmail.com**
+   
 <br>
   
 <h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
