@@ -1,7 +1,6 @@
  <div align="center">
-<img width="100%" src="https://i.ibb.co/vdggQ7q/Brown-Transparent-Minimalist-Personal-Profile-New-Linked-In-Banner-2.png" alt="cover" />
+<img width="100%" src="http://propulsive.in/assets/img/service-icon/web.gif" alt="cover" />
 </div>
-[![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/AbikMushyakho)
 ### Hi there 👋, I'm Amir Hossain
 #### Web Developer
 
