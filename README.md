@@ -1,7 +1,6 @@
  <div align="center">
 <img width="100%" src="https://i.ibb.co/vdggQ7q/Brown-Transparent-Minimalist-Personal-Profile-New-Linked-In-Banner-2.png" alt="cover" />
 </div>
-<!-- ![Web Developer](https://i.ibb.co/vdggQ7q/Brown-Transparent-Minimalist-Personal-Profile-New-Linked-In-Banner-2.png) -->
 
 ### Hi there 👋, I'm Amir Hossain
 #### Web Developer
