@@ -5,6 +5,7 @@
 ### Hi there 👋, I'm Amir Hossain
 #### Web Developer
 
+<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning. I love to solve real-world problems. I am strategic and goal-oriented,  and I always work with an end goal in mind. I enjoy working with include ReactJS, JavaScript.
 
 <br> 
@@ -13,8 +14,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 <p align="center"> <a href="https://github.com/AmirHossain58/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirHossain58&row=1&column=6&theme=onedark" alt="AmirHossain58" /></a> </p>
 
-
-<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+## :eyes: Current overview
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
  - 🔭 I’m currently working on  Hostel Meal Management system 
  
